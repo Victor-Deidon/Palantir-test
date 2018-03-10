@@ -1,3 +1,7 @@
+#NOT NOTED ON STYLE
+
+
+
 #input = ['Alice;START','Bob;START','Bob;1','Carson;START','Alice;15','Carson;6','David;START','David;24','Evil;START','Evil;START','Evil;4,5'];
 datafeed = ['Alice;START','Bob;START','Bob;1','Carson;START','Alice;15','Carson;6','David;START','David;24','Evil;START','Evil;4'];
 #input = ['Nick;START','Jeremy;START','Leah;START','Nick;10','Jeremy;START','Jeremy;START','Leah;15','Jeremy;8,14,9'];
